@@ -1,0 +1,5 @@
+Bundle-SymbolicName: karaf-demo
+Bundle-Version: 1.0.0.SNAPSHOT
+Import-Package: com.mengka.karaf;version="1.0.0.SNAPSHOT",org.osgi.framework
+Export-Package: com.mengka.karaf;version="1.0.0.SNAPSHOT"
+Bundle-Activator: com.mengka.karaf.Activator
